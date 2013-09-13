@@ -1,4 +1,3 @@
-Art-B
-=====
-
-Hello-World-Java-Assignment
+Art_B
+CMPR 112
+TUESDAYS 7-1010

@@ -30,3 +30,4 @@ public class twonumbers
 	System.out.printf( "Quotient is %d\n", quotient ); // display quotient
    } // end method main
 } // end class twonumbers
+//Good
